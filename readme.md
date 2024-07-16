@@ -17,11 +17,11 @@ To get started with this project, follow these steps:
 
 1. Clone the Repository:
 ```bash
-git clone https://github.com/joc-rgb/tripadvisor-web-scraping.git
+git clone https://github.com/joc-rgb/tripadvisor-puppeteer-web-scraping.git
 ```
 2. Navigate to the Project Directory:
 ```bash
-cd tripadvisor-web-scraping
+cd tripadvisor-puppeteer-web-scraping
 ```
 
 3. Install Dependencies:
