@@ -1,6 +1,6 @@
 # TripAdvisor Web Scraping
 
-This project aims to scrape data from [TripAdvisor](tripadvisor.com) for sentiment analysis purposes.
+This project aims to scrape data from [TripAdvisor](tripadvisor.com) for sentiment analysis purposes. The technologies used includes puppeteer(node js).
 
 ## Introduction
 In this project, we utilize web scraping techniques to extract data from [TripAdvisor](tripadvisor.com), focusing on customer reviews of various tourism attractions in Malaysia. The extracted data serves as the foundation for sentiment analysis, enabling us to gain insights into the opinions and emotions conveyed within these reviews.
