@@ -1,4 +1,4 @@
-# TripAdvisor Web Scraping
+# TripAdvisor Web Scraping With Puppeteer
 
 This project aims to scrape data from [TripAdvisor](tripadvisor.com) for sentiment analysis purposes. The technologies used includes puppeteer(node js).
 
